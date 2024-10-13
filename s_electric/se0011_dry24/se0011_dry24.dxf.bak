@@ -481,19 +481,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2460532.64641338
+2460535.68476066
   9
 $TDUCREATE
  40
-2460532.479746713
+2460535.518093993
   9
 $TDUPDATE
  40
-2460532.646425104
+2460535.6847725
   9
 $TDUUPDATE
  40
-2460532.479758438
+2460535.518105833
   9
 $TDINDWG
  40
@@ -921,7 +921,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{233644af-76f5-4c33-a9ba-ae81dfd1dc75}
+{e2ca72d9-1a49-4572-9e53-bfd276204d1d}
   9
 $VERSIONGUID
   2
@@ -7217,7 +7217,7 @@ AcDbMText
  10
 70.99785837458893
  20
--24.07289466836582
+-25.55524873074938
  30
 0.0
  40
@@ -7257,7 +7257,7 @@ Continuous
 100
 AcDbMText
  10
-70.0015609878437
+70.00156305743462
  20
 -18.0722176329643
  30
@@ -7273,7 +7273,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т2}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T\fArial Narrow|b0|i0|c204|p34;2}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -7425,7 +7425,7 @@ Continuous
 100
 AcDbMText
  10
-80.00156098784348
+80.0015596091938
  20
 -18.07221905246536
  30
@@ -7441,7 +7441,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т2\fArial Narrow|b0|i0|c204|p34;3}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T\fArial Narrow|b0|i0|c204|p34;23}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -7509,9 +7509,9 @@ Continuous
 100
 AcDbMText
  10
-79.99559191001237
+79.99560246139008
  20
--130.073567541821
+-130.0735645315628
  30
 0.0
  40
@@ -7525,7 +7525,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Тklo24cp}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T\fArial Narrow|b0|i0|c204|p34;klo24cp}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -7593,9 +7593,9 @@ Continuous
 100
 AcDbMText
  10
-90.00156098784328
+90.00156070174488
  20
--110.0735668903239
+-110.0735651830642
  30
 0.0
  40
@@ -7609,7 +7609,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Тkli\fArial Narrow|b0|i0|c204|p34;0cp}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T\fArial Narrow|b0|i0|c204|p34;kli0cp}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -7677,7 +7677,7 @@ Continuous
 100
 AcDbMText
  10
-90.00156098784328
+90.00156396074775
  20
 -18.0722175520223
  30
@@ -7693,7 +7693,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т3}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T\fArial Narrow|b0|i0|c204|p34;3}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73

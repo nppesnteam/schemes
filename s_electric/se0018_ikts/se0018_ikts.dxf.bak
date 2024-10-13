@@ -481,19 +481,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2460532.481640695
+2460536.564418831
   9
 $TDUCREATE
  40
-2460532.314974028
+2460536.397752164
   9
 $TDUPDATE
  40
-2460532.481653727
+2460536.564432083
   9
 $TDUUPDATE
  40
-2460532.31498706
+2460536.397765417
   9
 $TDINDWG
  40
@@ -921,7 +921,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{d0748860-7f35-47d9-81f0-17ccd24a29c2}
+{0dba626f-7c0c-4916-ac8e-56fe3866ed7f}
   9
 $VERSIONGUID
   2
@@ -3255,7 +3255,7 @@ Continuous
 100
 AcDbMText
  10
-54.9985764489283
+53.60939950381159
  20
 -98.59815954328228
  30
@@ -3267,11 +3267,11 @@ AcDbMText
  46
 0.0
  71
-     2
+     1
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;P\fArial Narrow|b0|i0|c204|p34;P}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;P\fArial Narrow|b0|i0|c204|p34;P}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -3741,7 +3741,7 @@ Continuous
 100
 AcDbMText
  10
-54.99857644892886
+53.27057552667157
  20
 -134.5981610925635
  30
@@ -3753,11 +3753,11 @@ AcDbMText
  46
 0.0
  71
-     2
+     1
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;L\fArial Narrow|b0|i0|c204|p34;p\fArial Narrow|b0|i0|c204|p34;p}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;L\fArial Narrow|b0|i0|c204|p34;p\fArial Narrow|b0|i0|c204|p34;p}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -3783,7 +3783,7 @@ Continuous
 100
 AcDbMText
  10
-54.9985764489285
+53.0926912040237
  20
 -126.5981610925643
  30
@@ -3795,11 +3795,11 @@ AcDbMText
  46
 0.0
  71
-     2
+     1
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;N\fArial Narrow|b0|i0|c204|p34;p\fArial Narrow|b0|i0|c204|p34;p}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;N\fArial Narrow|b0|i0|c204|p34;p\fArial Narrow|b0|i0|c204|p34;p}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -4667,9 +4667,9 @@ Continuous
 100
 AcDbMText
  10
-92.82461551921283
+91.68523910380354
  20
--102.5981605882237
+-102.5981605882243
  30
 0.0
  40
@@ -9879,7 +9879,7 @@ Continuous
 100
 AcDbMText
  10
-54.99857644892844
+52.51669255655543
  20
 -110.598159543281
  30
@@ -9891,11 +9891,11 @@ AcDbMText
  46
 0.0
  71
-     2
+     1
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;XTpp}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;XTpp}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -10089,7 +10089,7 @@ Continuous
 100
 AcDbMText
  10
-70.60393063575307
+70.02658111969095
  20
 -82.07984149962728
  30
@@ -10509,9 +10509,9 @@ Continuous
 100
 AcDbMText
  10
-107.3123500110902
+100.7730500110902
  20
--72.0728948617286
+-72.07289213647476
  30
 0.0
  40
@@ -10521,11 +10521,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp1\fArial Narrow|b0|i0|c204|p34;+}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp1\fArial Narrow|b0|i0|c204|p34;+}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -10835,7 +10835,7 @@ MTEXT
 100
 AcDbEntity
   8
-id_static_ai
+id_params_ai
   6
 Continuous
  62
@@ -11475,9 +11475,9 @@ Continuous
 100
 AcDbMText
  10
-116.7871413737704
+110.7730213737704
  20
--72.0535266783355
+-72.05352395308167
  30
 0.0
  40
@@ -11487,11 +11487,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;1-}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;1-}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -11517,9 +11517,9 @@ Continuous
 100
 AcDbMText
  10
-127.3122938980662
+120.7729938980662
  20
--72.03415731290792
+-72.03415695172437
  30
 0.0
  40
@@ -11529,11 +11529,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2+}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2+}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -11559,9 +11559,9 @@ Continuous
 100
 AcDbMText
  10
-136.7764973129994
+130.7623773129994
  20
--72.03415731290792
+-72.03415695172437
  30
 0.0
  40
@@ -11571,11 +11571,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2-}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2-}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12021,9 +12021,9 @@ Continuous
 100
 AcDbMText
  10
-95.01061836832838
+90.1027769302338
  20
--110.598159543281
+-110.5981605882234
  30
 0.0
  40
@@ -12033,11 +12033,11 @@ AcDbMText
  46
 0.0
  71
-     2
+     1
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;XTcp}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;XTcp}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12567,9 +12567,9 @@ Continuous
 100
 AcDbMText
  10
-107.3181210998961
+100.7788210998961
  20
--96.02554371301727
+-96.02554098776343
  30
 0.0
  40
@@ -12579,11 +12579,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp1\fArial Narrow|b0|i0|c204|p34;+}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp1\fArial Narrow|b0|i0|c204|p34;+}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12609,9 +12609,9 @@ Continuous
 100
 AcDbMText
  10
-116.7929124625764
+110.7787924625764
  20
--96.00617552962417
+-96.00617280437034
  30
 0.0
  40
@@ -12621,11 +12621,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;1-}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;1-}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12651,9 +12651,9 @@ Continuous
 100
 AcDbMText
  10
-127.3180460743082
+120.7787460743082
  20
--95.98680734623107
+-95.98680462097724
  30
 0.0
  40
@@ -12663,11 +12663,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2+}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2+}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12693,9 +12693,9 @@ Continuous
 100
 AcDbMText
  10
-136.7822565814527
+130.7681365814527
  20
--95.98680734623107
+-95.98680462097724
  30
 0.0
  40
@@ -12705,11 +12705,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2-}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2-}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12735,9 +12735,9 @@ Continuous
 100
 AcDbMText
  10
-107.3335076897002
+100.7942076897002
  20
--120.110564055772
+-120.1105655858447
  30
 0.0
  40
@@ -12747,11 +12747,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp1\fArial Narrow|b0|i0|c204|p34;+}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp1\fArial Narrow|b0|i0|c204|p34;+}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12777,9 +12777,9 @@ Continuous
 100
 AcDbMText
  10
-116.8082947970555
+110.7941747970554
  20
--120.0911958723789
+-120.0911974024516
  30
 0.0
  40
@@ -12789,11 +12789,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;1-}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;1-}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12819,9 +12819,9 @@ Continuous
 100
 AcDbMText
  10
-127.3334326641122
+120.7941326641122
  20
--120.0718276889858
+-120.0718292190585
  30
 0.0
  40
@@ -12831,11 +12831,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2+}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2+}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12861,9 +12861,9 @@ Continuous
 100
 AcDbMText
  10
-136.7976389159317
+130.7835189159317
  20
--120.0718276889858
+-120.0718292190585
  30
 0.0
  40
@@ -12873,11 +12873,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2-}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2-}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12903,9 +12903,9 @@ Continuous
 100
 AcDbMText
  10
-107.3335251838219
+100.7942251838219
  20
--144.0255695824355
+-144.0255692212519
  30
 0.0
  40
@@ -12915,11 +12915,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp1\fArial Narrow|b0|i0|c204|p34;+}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp1\fArial Narrow|b0|i0|c204|p34;+}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12945,9 +12945,9 @@ Continuous
 100
 AcDbMText
  10
-116.8083094542909
+110.7941894542909
  20
--144.0062013990423
+-144.0062010378588
  30
 0.0
  40
@@ -12957,11 +12957,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;1-}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;1-}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -12987,9 +12987,9 @@ Continuous
 100
 AcDbMText
  10
-127.3334501582339
+120.7941501582339
  20
--143.9868332156493
+-143.9868328544657
  30
 0.0
  40
@@ -12999,11 +12999,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2+}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2+}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -13029,9 +13029,9 @@ Continuous
 100
 AcDbMText
  10
-136.7976535731672
+130.7835335731671
  20
--143.9868332156493
+-143.9868328544657
  30
 0.0
  40
@@ -13041,11 +13041,11 @@ AcDbMText
  46
 0.0
  71
-     3
+     1
  72
      1
   1
-\A1;{\pqr;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2-}
+\A1;{\pql;\fArial Narrow|b0|i0|c204|p34;Wcp\fArial Narrow|b0|i0|c204|p34;2-}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
