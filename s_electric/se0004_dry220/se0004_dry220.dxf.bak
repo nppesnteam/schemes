@@ -481,19 +481,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2460532.734145509
+2460607.832498808
   9
 $TDUCREATE
  40
-2460532.567478843
+2460607.665832141
   9
 $TDUPDATE
  40
-2460532.734157014
+2460607.832519386
   9
 $TDUUPDATE
  40
-2460532.567490347
+2460607.66585272
   9
 $TDINDWG
  40
@@ -921,7 +921,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{00feb363-6e2a-467f-8e56-6542d8608b60}
+{19f4cbfb-d88a-498a-aa85-be5dccb516df}
   9
 $VERSIONGUID
   2
@@ -1787,7 +1787,7 @@ AcDbTextStyleTableRecord
  42
 0.2
   3
-
+ARIALN.TTF
   4
 
 1001
@@ -7215,7 +7215,7 @@ Continuous
 100
 AcDbMText
  10
-70.0015609878437
+70.00156120495582
  20
 -74.07221763295813
  30
@@ -7231,7 +7231,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т2}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T2}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -7383,7 +7383,7 @@ Continuous
 100
 AcDbMText
  10
-80.00156098784349
+80.0015610689636
  20
 -74.0722176329583
  30
@@ -7399,7 +7399,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т\fArial Narrow|b0|i0|c204|p34;22}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T22}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -7467,9 +7467,9 @@ Continuous
 100
 AcDbMText
  10
-79.99559191001237
+79.99560054550417
  20
--178.0735675418157
+-178.0735610738013
  30
 0.0
  40
@@ -7483,7 +7483,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Тklo24cp}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Tklo24cp}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -7551,9 +7551,9 @@ Continuous
 100
 AcDbMText
  10
-90.00156098784328
+90.00155872117746
  20
--158.0811893966559
+-158.0811862777889
  30
 0.0
  40
@@ -7567,7 +7567,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Тkli\fArial Narrow|b0|i0|c204|p34;N}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;TkliN}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -7635,7 +7635,7 @@ Continuous
 100
 AcDbMText
  10
-90.00156098784328
+90.00156210826894
  20
 -74.07221755201614
  30
@@ -7651,7 +7651,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т3}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T3}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73

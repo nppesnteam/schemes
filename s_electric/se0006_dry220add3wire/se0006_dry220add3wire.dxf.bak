@@ -481,19 +481,19 @@ $SKPOLY
   9
 $TDCREATE
  40
-2460532.737462975
+2460607.834743496
   9
 $TDUCREATE
  40
-2460532.570796308
+2460607.668076829
   9
 $TDUPDATE
  40
-2460532.737475301
+2460607.834755382
   9
 $TDUUPDATE
  40
-2460532.570808634
+2460607.668088715
   9
 $TDINDWG
  40
@@ -921,7 +921,7 @@ $PSTYLEMODE
   9
 $FINGERPRINTGUID
   2
-{1af0ea70-f9f0-424b-ba2b-d3263ccfd3f1}
+{7654d17f-8d92-4f78-8c64-ca8825d998e4}
   9
 $VERSIONGUID
   2
@@ -8499,7 +8499,7 @@ Continuous
 100
 AcDbMText
  10
-70.0015609878437
+70.0015616602181
  20
 -74.07221763295813
  30
@@ -8515,7 +8515,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т2}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T2}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -8667,7 +8667,7 @@ Continuous
 100
 AcDbMText
  10
-80.00156098784349
+80.0015593512832
  20
 -74.0722176329583
  30
@@ -8683,7 +8683,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т\fArial Narrow|b0|i0|c204|p34;22}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T22}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -8751,9 +8751,9 @@ Continuous
 100
 AcDbMText
  10
-79.99559191001237
+79.99560168563927
  20
--178.0735675418157
+-178.0735630901513
  30
 0.0
  40
@@ -8767,7 +8767,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Тklo24cp}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Tklo24cp}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -8835,9 +8835,9 @@ Continuous
 100
 AcDbMText
  10
-90.00156098784328
+90.00155970823886
  20
--158.0811893966559
+-158.081188294139
  30
 0.0
  40
@@ -8851,7 +8851,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Тkli\fArial Narrow|b0|i0|c204|p34;N}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;TkliN}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -8919,7 +8919,7 @@ Continuous
 100
 AcDbMText
  10
-90.00156098784328
+90.00156256353122
  20
 -74.07221755201614
  30
@@ -8935,7 +8935,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т3}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T3}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -9213,9 +9213,9 @@ Continuous
 100
 AcDbMText
  10
-70.0015609878437
+70.00156125934393
  20
--54.08119169763613
+-54.0811894165194
  30
 0.0
  40
@@ -9229,7 +9229,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т\fArial Narrow|b0|i0|c204|p34;5}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T5}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -9297,7 +9297,7 @@ Continuous
 100
 AcDbMText
  10
-70.0015609878437
+70.00155114038351
  20
 -18.07984252348999
  30
@@ -9313,7 +9313,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т5\fArial Narrow|b0|i0|c204|p34;add}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T5add}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -9423,7 +9423,7 @@ Continuous
 100
 AcDbMText
  10
-80.00156098784349
+80.00155836877057
  20
 -18.0722169716646
  30
@@ -9439,7 +9439,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т\fArial Narrow|b0|i0|c204|p34;6\fArial Narrow|b0|i0|c204|p34;add}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T6add}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
@@ -9549,9 +9549,9 @@ Continuous
 100
 AcDbMText
  10
-79.99857644892792
+79.99857614883175
  20
--54.07356578477359
+-54.07356827055841
  30
 0.0
  40
@@ -9565,7 +9565,7 @@ AcDbMText
  72
      1
   1
-\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;Т\fArial Narrow|b0|i0|c204|p34;6}
+\A1;{\pqc;\fArial Narrow|b0|i0|c204|p34;T6}
   7
 СГЕНЕРИР_СТИЛЬ_1
  73
